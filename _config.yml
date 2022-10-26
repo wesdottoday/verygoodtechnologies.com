@@ -1,0 +1,14 @@
+# Site settings
+title: Very Good IAQ Sensors
+email: hey@verygoodtechnologies.com
+description: A technology company focused on making the air you breath healthier, one home at a time.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://verygoodtechnologies.com" # the base hostname & protocol for your site
+company: Very Good Technologies
+
+github_url:
+gitlab_url: https://gitlab.wes.today/vgt
+twitter_url: 
+
+# Build settings
+markdown: kramdown
